@@ -1,0 +1,71 @@
+
+    h2 {
+     color: rgb(90,188,230);
+      
+    }
+    
+    body{
+      background-color: rgb(93,140,170);
+      font-family: sans - serif;
+    }
+  
+  table{
+    border: 3px solid;
+    width:40%;
+    text-align:center;
+   
+  }
+  
+  th{
+    border:3px solid;
+    
+  }
+  
+  
+  td{
+    border: 3px solid;
+    color:purple;
+  }
+  
+  h3{
+    color:rgb(90,188,230);
+  }
+  #lista-web {
+    border: 3px solid rgb(94,56,70);
+}
+    
+  #descp{
+    border: 3px solid rgb(94,56,70);
+  }
+    .gallery{
+        margin: 90px; 
+    }
+  
+  #encabezado{
+    background-color: rgb(78,189,190);
+    margin:50px;
+  }
+  
+  #text2{
+     color:rgb(99,90,890);
+  }
+  
+    .descripcion{
+      margin:50px;
+    }
+    
+  .lista{
+    margin:50px;
+  }
+  
+  .info{
+    padding:10px;
+  }
+  
+    .barra {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 16px;
+    
+    }
